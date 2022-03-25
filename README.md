@@ -1,0 +1,2 @@
+# felvetelihazi
+Felvételi kiértesítő applikáció
